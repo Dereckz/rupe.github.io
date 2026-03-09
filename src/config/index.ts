@@ -39,7 +39,7 @@ export const SITE_CONTENT: SiteContent = {
       //endDate: "Sept 2020",
       summary: [
         "Desarrollo de una plataforma web de capacitación en línea, diseñada para que la empresa Impulsora Mexicana De Productividad Laboral pudiera ofrecer cursos digitales a sus distintos clientes.",
-        "La plataforma permite distribuir contenido formativo en áreas como:",
+        "La plataforma permite distribuir contenido formativo en áreas como: ",
         "•	Habilidades digitales",
         "•	Psicología",
         "•	Finanzas",
