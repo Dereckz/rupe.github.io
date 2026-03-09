@@ -35,8 +35,8 @@ export const SITE_CONTENT: SiteContent = {
     {
       company: "Impulsora Mexicana De Productividad Laboral A.C.",
       position: "Freelancer",
-      // startDate: "May 2018",
-      //endDate: "Sept 2020",
+       startDate: "May 2018",
+      endDate: "Sept 2020",
       summary: [
         "Desarrollo de una plataforma web de capacitación en línea, diseñada para que la empresa Impulsora Mexicana De Productividad Laboral pudiera ofrecer cursos digitales a sus distintos clientes.",
         "La plataforma permite distribuir contenido formativo en áreas como: ",
@@ -49,8 +49,8 @@ export const SITE_CONTENT: SiteContent = {
     {
       company: "Fraternidad Universal",
       position: "Freelancer",
-      //startDate: "Feb 2017",
-      //endDate: "May 2018",
+      startDate: "Feb 2017",
+      endDate: "May 2018",
       summary: [
         "Desarrollo de una plataforma web informativa para el proyecto Fraternidad Universal, enfocada en la publicación de noticias y contenidos relacionados con temas religiosos y filosóficos. ",
         "El objetivo principal fue crear un sitio claro, ligero y fácil de navegar, que permitiera comunicar información de forma ordenada y accesible al público.",
