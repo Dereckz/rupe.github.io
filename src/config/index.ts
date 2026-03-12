@@ -43,7 +43,7 @@ export const SITE_CONTENT: SiteContent = {
         "•	Habilidades digitales",
         "•	Psicología",
         "•	Finanzas",
-        "•	Desarrollo personal y profesional",
+        "•	Desarrollo personal y profesional",   
       ],
     },
     {
