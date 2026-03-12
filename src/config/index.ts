@@ -17,7 +17,7 @@ export const SITE_CONFIG: SiteConfig = {
     { text: "LinkedIn", href: "https://www.linkedin.com/in/eduardoruizperez14/" },
     { text: "Github", href: "https://github.com/Dereckz" },
     { text: "Youtube", href: "https://www.youtube.com/@eduardoruiz4990" },
-    { text: "Dribbble", href: "https://dribbble.com" },
+    { text: "Dribbble", href: "https://dribbble.com" }, 
   ],
   socialImage: "/zen-og.png",
   canonicalURL: "https://astro-zen.vercel.app",
@@ -33,38 +33,31 @@ export const SITE_CONTENT: SiteContent = {
   },
   experience: [
     {
-      company: "Impulsora Mexicana De Productividad Laboral A.C.",
-      position: "Freelancer",
-       startDate: "May 2018",
-      endDate: "Sept 2020",
+      company: "Didatics A.C.",
+      position: "Desarrollador Móvil",
+       startDate: "Junio 2017",
+      endDate: "Agosto 2018",
       summary: [
-        "Desarrollo de una plataforma web de capacitación en línea, diseñada para que la empresa Impulsora Mexicana De Productividad Laboral pudiera ofrecer cursos digitales a sus distintos clientes.",
-        "La plataforma permite distribuir contenido formativo en áreas como: ",
-        "•	Habilidades digitales",
-        "•	Psicología",
-        "•	Finanzas",
-        "•	Desarrollo personal y profesional",   
-      
-
+        "Asesoria y Desarrollo de una aplicación Móvil en Android para la captura de información en forma de diario de campo para las estudiantes de las escuelas normales.",
       ],
     },
     {
-      company: "Fraternidad Universal",
-      position: "Freelancer",
-      startDate: "Feb 2017",
-      endDate: "May 2018",
+      company: "Dësë Tencnologías",
+      position: "Co-fundador/Desarrollador",
+      startDate: "Enero 2016",
+      endDate: "Actualmente",
       summary: [
-        "Desarrollo de una plataforma web informativa para el proyecto Fraternidad Universal, enfocada en la publicación de noticias y contenidos relacionados con temas religiosos y filosóficos. ",
-        "El objetivo principal fue crear un sitio claro, ligero y fácil de navegar, que permitiera comunicar información de forma ordenada y accesible al público.",
+        "Ejecutivo de Planeación, Estrategia y Organización en cuanto a las soluciones informaticas de la empresa ",
+       
       ],
     },
     {
-      company: "Driveer",
-      position: "Frontend Developer",
-      startDate: "Jun 2015",
-      endDate: "Oct 2016",
+      company: "Volkhausen SA de CV",
+      position: "Auxiliar Sistemas",
+      startDate: "Enero 2018",
+      endDate: "Actualmente",
       summary:
-        "Developed and integrated a real-time vehicle tracking system using WebSockets, improving accuracy and data update in the application. This functionality increased user satisfaction by 30% and reduced customer service inquiries by 25%.",
+        "Soporte técnico general, desarrollador en sistemas de escritorio para procesos nóminas/contables",
     },
   ],
   projects: [
